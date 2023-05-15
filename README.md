@@ -26,4 +26,4 @@
 - 🎓 Tenho formação técnica em mecatronica
 - 🖥️ Já trabalhei com automação indsutrial com linguagem ladder
 - 🌟 Sempre em busca de novos desafios e oportunidades de aprendizado. Se você está procurando um desenvolvedor front-end junior dedicado, comprometido e pronto para aprender,         entre em contato comigo!
-- 📫 Você pode me encontrar em   <a href="[https://github.com/Elie-Ferreir4](https://www.linkedin.com/in/elie-ferreira-b18537256/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- 📫 Você pode me encontrar em   <a href="https://www.linkedin.com/in/elie-ferreira-b18537256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
