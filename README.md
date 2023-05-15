@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 ### Mais sobre mim:
 - 🎓 Tenho formação técnica em mecatronica
 - 🖥️ Já trabalhei com automação indsutrial com linguagem ladder
-- 🌟 Sempre em busca de novos desafios e oportunidades de aprendizado. Se você está procurando um desenvolvedor front-end junior dedicado, comprometido e pronto para aprender, entre em contato comigo!
+- 🌟 Sempre em busca de novos desafios e oportunidades de aprendizado. Se você está procurando um desenvolvedor front-end junior dedicado, comprometido e pronto para aprender,         entre em contato comigo!
 - 📫 Você pode me encontrar em 
