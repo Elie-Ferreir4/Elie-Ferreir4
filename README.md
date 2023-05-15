@@ -1,4 +1,6 @@
-### Oi, iaí tudo bem? 👋
+### Oi, iaí tudo bem? Seja muito bem vindo(a) ao meu perfil do Github 👋
+
+##
 
 - 💻 Meu portfólio - https://elie-ferreir4.github.io/elie-ferreira/
 - 🔭 Procurando a primeira vaga como desenvolvedor front-end Junior
