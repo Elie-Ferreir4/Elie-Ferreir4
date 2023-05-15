@@ -1,4 +1,4 @@
-### Oi, eu sou o Elie? Seja muito bem vindo(a) ao meu perfil do Github 👋
+### Oii, eu sou o Elie! Seja muito bem vindo(a) ao meu perfil do Github 👋
 
 ##
 
