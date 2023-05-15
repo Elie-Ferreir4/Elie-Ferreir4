@@ -1,4 +1,8 @@
-### Hi there 👋
+### Oi, iaí tudo bem? 👋
+
+- 💻 Meu portfólio - https://elie-ferreir4.github.io/elie-ferreira/
+- 🔭 Procurando a primeira vaga como desenvolvedor front-end Junior
+-🌱 Estudando desenvolvimento web full stack (https://www.udemy.com/course/web-completo/)
 
 <!--
 **Elie-Ferreir4/Elie-Ferreir4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
