@@ -2,9 +2,9 @@
 
 ##
 
-- 💻 Meu portfólio - https://elie-ferreir4.github.io/elie-ferreira/
-- 🔭 Procurando a primeira vaga como desenvolvedor front-end Junior
-- 🌱 Estudando desenvolvimento web full stack (https://www.udemy.com/course/web-completo/)
+- 💻 Meu portfólio: https://elie-ferreir4.github.io/elie-ferreira/
+- 🔭 Procurando minha primeira oportunidade como desenvolvedor front-end Júnior.
+- 🌱 Estou estudando desenvolvimento web full stack pelo curso https://www.udemy.com/course/web-completo/.
 
 
 <div>
@@ -23,9 +23,9 @@
 ##
   
 ### Mais sobre mim:
-- 🎓 Tenho formação técnica em mecatronica
-- 🖥️ Já trabalhei com automação indsutrial com linguagem ladder, dei aulas de informatica em escolas profissionalizantes, tive experiencia com logistica no SAC.
-- 🌟 Sempre em busca de novos desafios e oportunidades de aprendizado. Se você está procurando um desenvolvedor front-end junior dedicado, comprometido e pronto para aprender,         entre em contato comigo!
+- 🎓 Tenho formação técnica em mecatrônica.
+- 🖥️ Já trabalhei com automação industrial em linguagem ladder, dei aulas de informática em escolas profissionalizantes e tive experiência com logística no SAC administrativo.
+- 🌟 Estou sempre em busca de novos desafios e oportunidades de aprendizado. Se você está procurando um desenvolvedor front-end júnior dedicado, comprometido e pronto para aprender, entre em contato comigo!
 - 📫 Você pode me encontrar em: <br> 
 <a href="https://www.linkedin.com/in/elie-ferreira-b18537256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/elie_code/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
