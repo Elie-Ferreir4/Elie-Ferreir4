@@ -3,6 +3,7 @@
 ##
 
 - 💻 Meu portfólio - https://elie-ferreir4.github.io/elie-ferreira/
+- 
 - 🔭 Procurando a primeira vaga como desenvolvedor front-end Junior
 - 🌱 Estudando desenvolvimento web full stack (https://www.udemy.com/course/web-completo/)
 
