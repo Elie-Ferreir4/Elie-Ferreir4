@@ -2,9 +2,14 @@
 
 ##
 
-- 💻 Meu portfólio: https://elie-ferreir4.github.io/elie-ferreira/
-- 🔭 Procurando minha primeira oportunidade como desenvolvedor front-end Júnior.
-- 🌱 Estou estudando desenvolvimento web full stack pelo curso https://www.udemy.com/course/web-completo/.
+- 🔭 Procurando minha primeira oportunidade como desenvolvedor Júnior.
+- 🌱 
+
+Sou um desenvolvedor com habilidades em uma variedade de tecnologias, incluindo Java, JavaScript, HTML e CSS. No Java, possuo experiência em desenvolvimento de aplicações desktop e web, utilizando conceitos avançados de programação orientada a objetos, manipulação de exceções e acesso a banco de dados. Além disso, tenho conhecimento em redes, incluindo protocolos TCP/IP, comunicação em rede e desenvolvimento de aplicativos que interagem com a Internet.
+
+Em JavaScript, HTML e CSS, estou apto a desenvolver interfaces de usuário dinâmicas e responsivas, utilizando bibliotecas e frameworks modernos como React.js e Bootstrap. Minha experiência com Git e GitHub me permite gerenciar eficientemente o controle de versão de projetos e colaborar de forma eficaz com outros desenvolvedores em projetos de código aberto.
+
+Estou constantemente aprendendo e atualizando minhas habilidades para acompanhar as tendências da indústria e entregar soluções de alta qualidade. Estou animado para enfrentar novos desafios e contribuir para projetos inovadores.
 
 
 <div>
