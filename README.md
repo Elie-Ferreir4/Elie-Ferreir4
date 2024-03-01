@@ -1,4 +1,4 @@
-### Oii, eu sou o Elie! Muito bem vindo(a) ao meu perfil do Github 👋
+### Oii, eu sou o Elie! Desenvolvedor de aplicativos Desktop, aplicações e sites web.
 
 ##
 
@@ -10,6 +10,8 @@ Sou um desenvolvedor com habilidades em uma variedade de tecnologias, incluindo 
 Em JavaScript, HTML e CSS, estou apto a desenvolver interfaces de usuário dinâmicas e responsivas, utilizando bibliotecas e frameworks modernos como React.js e Bootstrap. Minha experiência com Git e GitHub me permite gerenciar eficientemente o controle de versão de projetos e colaborar de forma eficaz com outros desenvolvedores em projetos de código aberto.
 
 Estou constantemente aprendendo e atualizando minhas habilidades para acompanhar as tendências da indústria e entregar soluções de alta qualidade. Estou animado para enfrentar novos desafios e contribuir para projetos inovadores.
+
+Destaco também minha competência em configuração de DNS de domínio e hospedagem de sites, proporcionando soluções completas para projetos web. Estou sempre buscando aprender e atualizar minhas habilidades para acompanhar as tendências da indústria e oferecer soluções de alta qualidade. Estou entusiasmado para enfrentar novos desafios e contribuir para projetos inovadores.
 
 
 <div>
