@@ -30,7 +30,7 @@ Estou constantemente aprendendo e atualizando minhas habilidades para acompanhar
 ### Mais sobre mim:
 - 🎓 Tenho formação técnica em mecatrônica.
 - 🖥️ Já trabalhei com automação industrial em linguagem ladder, dei aulas de informática em escolas profissionalizantes e tive experiência com logística no SAC administrativo.
-- 🌟 Estou sempre em busca de novos desafios e oportunidades de aprendizado. Se você está procurando um desenvolvedor front-end júnior dedicado, comprometido e pronto para aprender, entre em contato comigo!
+- 🌟 Estou sempre em busca de novos desafios e oportunidades de aprendizado. Se você está procurando um desenvolvedor júnior dedicado, comprometido e pronto para aprender, entre em contato comigo!
 - 📫 Você pode me encontrar em: <br> 
 <a href="https://www.linkedin.com/in/elie-ferreira-b18537256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/elie_code/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
