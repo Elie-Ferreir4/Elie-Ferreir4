@@ -6,25 +6,25 @@
   
 - 🌱 Hard Skills: 
 
-• Sistemas Operacionais - Linux, Windows
-• JavaScript
-• ECMAScript
-• Java
-• Web - Serviço de Hospedagem (Web Hosting), Registro de Domínio (Domain Registration)
-• Redes - TCP/IP, OSI
-• Automação industrial - PLC, Ladder
-• Segurança - pentest white box, pentest gray box, scanning, phishing, MIM
-• HTML - tags semânticas, formulários, multimídia, boas práticas
-• CSS - Design responsivo, Bootstrap
-• Pacote Office - Excel, Word, PowerPoint
+• Sistemas Operacionais - Linux, Windows <br/>
+• JavaScript <br/>
+• ECMAScript <br/>
+• Java <br/>
+• Web - Serviço de Hospedagem (Web Hosting), Registro de Domínio (Domain Registration) <br/>
+• Redes - TCP/IP, OSI <br/>
+• Automação industrial - PLC, Ladder <br/>
+• Segurança - pentest white box, pentest gray box, scanning, phishing, MIM <br/>
+• HTML - tags semânticas, formulários, multimídia, boas práticas <br/>
+• CSS - Design responsivo, Bootstrap <br/>
+• Pacote Office - Excel, Word, PowerPoint <br/>
 
 - 🌱 Soft Skills:
 
-• Comunicativo
-• Adaptativo
-• Resiliente
-• Curioso
-• Criativo
+• Comunicativo <br/>
+• Adaptativo <br/>
+• Resiliente <br/>
+• Curioso <br/>
+• Criativo <br/>
 
 
 
