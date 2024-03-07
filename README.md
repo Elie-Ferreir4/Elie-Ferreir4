@@ -1,17 +1,30 @@
-### Oii, eu sou o Elie! Desenvolvedor de aplicativos Desktop, aplicações e sites web.
+### Olá, eu sou o Elie! Desenvolvedor Full Stack.
 
 ##
 
-- 🔭 Procurando minha primeira oportunidade como desenvolvedor Júnior.
-- 🌱 
+- 🔭 Procurando minha primeira oportunidade como desenvolvedor.
+  
+- 🌱 Hard Skills: 
 
-Sou um desenvolvedor com habilidades em uma variedade de tecnologias, incluindo Java, JavaScript, Ladder, HTML e CSS. No Java, possuo experiência em desenvolvimento de aplicações desktop e web, utilizando conceitos avançados de programação orientada a objetos, manipulação de exceções e acesso a banco de dados. Além disso, tenho conhecimento em redes, incluindo protocolos TCP/IP, comunicação em rede e desenvolvimento de aplicativos que interagem com a Internet.
+• Sistemas Operacionais - Linux, Windows
+• JavaScript
+• ECMAScript
+• Java
+• Web - Serviço de Hospedagem (Web Hosting), Registro de Domínio (Domain Registration)
+• Redes - TCP/IP, OSI
+• Automação industrial - PLC, Ladder
+• Segurança - pentest white box, pentest gray box, scanning, phishing, MIM
+• HTML - tags semânticas, formulários, multimídia, boas práticas
+• CSS - Design responsivo, Bootstrap
+• Pacote Office - Excel, Word, PowerPoint
 
-Em JavaScript, HTML e CSS, estou apto a desenvolver interfaces de usuário dinâmicas e responsivas, utilizando bibliotecas e frameworks modernos como React.js e Bootstrap. Minha experiência com Git e GitHub me permite gerenciar eficientemente o controle de versão de projetos e colaborar de forma eficaz com outros desenvolvedores em projetos de código aberto.
+- 🌱 Soft Skills:
 
-Estou constantemente aprendendo e atualizando minhas habilidades para acompanhar as tendências da indústria e entregar soluções de alta qualidade. Estou animado para enfrentar novos desafios e contribuir para projetos inovadores.
-
-Destaco também minha competência em configuração de DNS de domínio e hospedagem de sites, proporcionando soluções completas para projetos web. Estou sempre buscando aprender e atualizar minhas habilidades para acompanhar as tendências da indústria e oferecer soluções de alta qualidade. Estou entusiasmado para enfrentar novos desafios e contribuir para projetos inovadores.
+• Comunicativo
+• Adaptativo
+• Resiliente
+• Curioso
+• Criativo
 
 
 <div>
