@@ -27,17 +27,10 @@
 • Criativo
 
 
-<div>
-  <a href="https://github.com/Elie-Ferreir4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elie-Ferreir4&show_icons=true&theme=tokyonight&rank_icon=github">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elie-Ferreir4&layout=compact&theme=tokyonight">
-</div>
-  
-<div style="display: inline-block"><br>
-  <div style="display: inline-block"><br>
-  <img alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-</div>
 
+
+
+<div>
   <img alt="Elie-html" height="40" widh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
   <img alt="Elie-css" height="40" widh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img alt="Elie-Js" height="40" widh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
