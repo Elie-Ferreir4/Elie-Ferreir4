@@ -16,6 +16,8 @@
 • Segurança - pentest white box, pentest gray box, scanning, phishing, MIM <br/>
 • HTML - tags semânticas, formulários, multimídia, boas práticas <br/>
 • CSS - Design responsivo, Bootstrap <br/>
+• PHP <br/>
+• AJAX <br/>
 • Pacote Office - Excel, Word, PowerPoint <br/>
 
 - 🌱 Soft Skills:
