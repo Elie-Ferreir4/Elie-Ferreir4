@@ -1,14 +1,6 @@
 ### Olá, eu sou o Elie!  | Administrador de Sistemas | Full Stack
 
-```bash
-elie@github:~$ whoami
-Backend Developer
 
-elie@github:~$ skills
-Node.js  C  Linux  SQLite  Networking
-
-elie@github:~$ status
-Always learning 🚀
 
 ##
 
