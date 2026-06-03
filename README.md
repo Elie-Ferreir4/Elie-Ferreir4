@@ -6,15 +6,15 @@
   
 - 💻 Hard Skills: 
 
-• Sistemas Operacionais - Linux, Windows <img src="https://skillicons.dev/icons?i=linux,windows" /><br/>
-• FrontEnd - Nginx, JavaScript, Css, Html <br/>
+• Sistemas Operacionais - Linux, Windows <img src="https://skillicons.dev/icons?i=linux,windows"/> <br/>
+• FrontEnd - Nginx, JavaScript, Css, Html <img src="https://skillicons.dev/icons?i=nginx,js,css,html"/> <br/>
 • BackEnd - Node.js, C, Java <br/>
 • Redes - Mikrotik, VoIP, Analise de dados, DevSecOps <br/>
 • Segurança - DevSecOps, Anlise de pacotes, Analise de Malware, Segurança Ofensiva<br/>
 • Automação industrial - PLC, Ladder <br/>
 • Pacote Office - Excel, Word, PowerPoint <br/>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows,nodejs,npm,neovim,c,js,vscode,java,mysql,html,css" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,nodejs,nginx,npm,neovim,c,js,vscode,java,mysql,html,css" />
 </p>
 
 - 🙋🏻 Soft Skills:
