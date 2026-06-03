@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Desenvolvendo Projetos para as empresas que trabalho.
+- 🔭 Automatizando tudo o que for possivel
   
 - 💻 Hard Skills: 
 
