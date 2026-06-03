@@ -1,6 +1,6 @@
 # 👨‍💻 Olá, eu sou o Elie! | Administrador de Sistemas | Full Stack
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&color=00FF00\&background=0D1117\&width=600\&lines=Administrador+de+Sistemas;Backend+Developer;Linux+Enthusiast;Node.js+%7C+C+%7C+SQLite;Infraestrutura+%7C+Redes+%7C+Automação)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=0D1117&width=600&lines=Infraestrutura+%7C+Redes+%7C+Automação;Administrador+de+Sistemas;Backend+Developer;Linux+Enthusiast;Node.js+%7C+C+%7C+SQLite)](https://git.io/typing-svg)
 
 ```bash
 elie@github:~$ whoami
