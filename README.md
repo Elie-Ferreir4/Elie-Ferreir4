@@ -21,13 +21,17 @@ Automatizando tudo o que for possível 🚀
 
 ## 💻 Hard Skills
 
-* 🐧 Sistemas Operacionais — Linux, Windows
-* 🌐 FrontEnd — HTML, CSS, JavaScript, Nginx
-* ⚙️ BackEnd — Node.js, C, Java
-* 📡 Redes — MikroTik, VoIP, Análise de Dados, DevSecOps
-* 🔒 Segurança — Análise de Pacotes, Malware Analysis, Segurança Ofensiva
-* 🏭 Automação Industrial — PLC, Ladder
-* 📊 Pacote Office — Excel, Word, PowerPoint
+* 🐧 Sistemas Operacionais — Linux, Windows Server, Debian
+* ⚙️ Backend Development — Node.js, APIs REST, JavaScript, C
+* 🌐 Infraestrutura Web — Nginx, HTTP/HTTPS, Proxy Reverso
+* 🗄️ Banco de Dados — SQLite, modelagem e manipulação de dados
+* 📡 Redes e Infraestrutura — MikroTik, roteamento, VPN, VoIP e análise de tráfego
+* 🔒 Segurança e Monitoramento — DevSecOps, análise de pacotes, troubleshooting e hardening
+* ☁️ Servidores e Cloud — Deploy de aplicações, hospedagem de serviços e automações
+* 🛠️ Automação e Ferramentas — Neovim, Git, SSH, Linux CLI e scripts
+* 🖥️ Suporte e Administração — Windows, servidores de monitoramento, CFTV e alarmes
+* 🏭 Automação Industrial — PLC e linguagem Ladder
+
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,windows,nodejs,nginx,npm,neovim,c,js,vscode,java,mysql,html,css" />
