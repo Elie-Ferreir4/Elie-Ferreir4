@@ -13,6 +13,9 @@
 • Segurança - DevSecOps, Anlise de pacotes, Analise de Malware, Segurança Ofensiva<br/>
 • Automação industrial - PLC, Ladder <br/>
 • Pacote Office - Excel, Word, PowerPoint <br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,windows,nodejs,npm,neovim,c,js,vscode,java,mysql,html,css" />
+</p>
 
 - 🙋🏻 Soft Skills:
 
@@ -23,9 +26,7 @@
 • Criativo <br/>
 
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows,nodejs,npm,neovim,c,js,vscode,java,mysql,html,css" />
-</p>
+
   
 ##
   
