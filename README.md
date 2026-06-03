@@ -6,7 +6,7 @@
   
 - 💻 Hard Skills: 
 
-• Sistemas Operacionais - Linux, Windows <br/>
+• Sistemas Operacionais - Linux, Windows <img src="https://skillicons.dev/icons?i=linux,windows" /><br/>
 • FrontEnd - Nginx, JavaScript, Css, Html <br/>
 • BackEnd - Node.js, C, Java <br/>
 • Redes - Mikrotik, VoIP, Analise de dados, DevSecOps <br/>
