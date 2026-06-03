@@ -2,6 +2,8 @@
 
 ##
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=000000&width=435&lines=Backend+Developer;Linux+Enthusiast;Node.js+%7C+C+%7C+SQLite)](https://git.io/typing-svg)
+
 - 🔭 Automatizando tudo o que for possivel
   
 - 💻 Hard Skills: 
