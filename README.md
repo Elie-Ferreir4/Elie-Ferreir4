@@ -6,8 +6,8 @@
   
 - 💻 Hard Skills: 
 
-• Sistemas Operacionais - Linux, Windows <img src="https://skillicons.dev/icons?i=linux,windows"/> <br/>
-• FrontEnd - Nginx, JavaScript, Css, Html <img src="https://skillicons.dev/icons?i=nginx,js,css,html"/> <br/>
+• Sistemas Operacionais - Linux, Windows <br/>
+• FrontEnd - Nginx, JavaScript, Css, Html <br/>
 • BackEnd - Node.js, C, Java <br/>
 • Redes - Mikrotik, VoIP, Analise de dados, DevSecOps <br/>
 • Segurança - DevSecOps, Anlise de pacotes, Analise de Malware, Segurança Ofensiva<br/>
